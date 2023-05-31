@@ -16,5 +16,4 @@ Improved instructions for executing the book recommender:
 
 Authors:
 
-Aniol Bisquert
-Antonio Pariente
+Aniol Bisquert & Antonio Pariente
